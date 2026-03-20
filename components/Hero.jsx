@@ -34,13 +34,14 @@ export default function Hero() {
           deeper conversations, sharper self-awareness, and the words to match what they feel.
         </p>
         <div style={S.actions} className="animate-fade-up-4">
-          <a href="https://wa.me/918085890545"
+          <a 
+            href="https://wa.me/918085890545?text=Hi%20I%20want%20to%20know%20more%20about%20Brain%20Library"
             target="_blank"
-            rel="noopener noreferrer
+            rel="noopener noreferrer"
             className="btn-fill"
-            style={{ fontSize: 13, letterSpacing: "0.1em", textTransform: "uppercase", color: "var(--charcoal)", background: "var(--cream)", padding: "18px 44px", borderRadius: 1, textDecoration: "none", fontWeight: 500, display: "inline-block" }}
-          >
-            <span style={{ color: "var(--charcoal)" }}>Contact Us</span>
+            >
+            <span style={{ color: 'var(--charcoal)' }}>Contact on WhatsApp</span>
+          </a>
           </a>
           <a href="#experience" style={{ fontSize: 13, letterSpacing: "0.06em", color: "var(--tan)", textDecoration: "none", fontWeight: 300, borderBottom: "1px solid rgba(200,188,159,0.3)", paddingBottom: 3, transition: "all 0.25s" }}
             onMouseEnter={e => { e.currentTarget.style.color = "var(--cream)"; e.currentTarget.style.borderColor = "rgba(245,241,232,0.4)"; }}
