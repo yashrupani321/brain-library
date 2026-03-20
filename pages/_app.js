@@ -1,7 +1,6 @@
 import '../styles/globals.css';
 
 export default function App({ Component, pageProps }) {
-  return <Component {...pageProps} />;
 
    <a
       href="https://wa.me/918085890545?text=Hi%20I%20want%20to%20know%20more%20about%20Brain%20Library"
