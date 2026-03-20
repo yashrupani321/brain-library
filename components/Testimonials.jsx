@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 const TESTIMONIALS = [
   { text: "I didn't expect to walk away understanding myself better. I came for communication skills and found something much quieter, and far more useful.", name: "Aarav M.", role: "Design student, 23", initial: "A" },
   { text: "There's no performance here. Just people trying to think and speak more honestly. That alone is rare.", name: "Sia K.", role: "Writer & educator, 29", initial: "S" },
