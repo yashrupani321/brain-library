@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 const STEPS = [
   { num: "i",   title: "Live Sessions",       desc: "Small, intimate gatherings. Real voices, real presence. Not webinars. Conversations." },
   { num: "ii",  title: "Real Conversations",  desc: "Practice the kind of dialogue that most people never learn — honest, curious, unhurried." },
