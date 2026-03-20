@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 export default function FinalCTA() {
   return (
     <section id="join" style={{ padding: "180px 0", background: "linear-gradient(160deg, #0F3D2E 0%, #0A2A1E 40%, #161616 100%)", textAlign: "center", position: "relative", overflow: "hidden" }}>
