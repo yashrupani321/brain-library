@@ -6,6 +6,7 @@ export default function App({ Component, pageProps }) {
       <Component {...pageProps} />
 
       <a
+  
         href="https://wa.me/918085890545?text=Hi%20I%20want%20to%20know%20more%20about%20Brain%20Library"
         target="_blank"
         rel="noopener noreferrer"
